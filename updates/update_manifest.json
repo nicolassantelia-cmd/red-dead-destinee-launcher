@@ -1,0 +1,10 @@
+{
+  "schema_version": 1,
+  "version": "1.0.3",
+  "mandatory": false,
+  "download_url": "https://github.com/nicolassantelia-cmd/red-dead-destinee-launcher/releases/latest/download/Red.Dead.Destinee.Launcher.Setup.exe",
+  "sha256": "ce9ac727395667e5f18440372815591981778434901422156a88e91c49870ea7",
+  "size": 37871988,
+  "release_notes": "Version 1.0.3 : correction de l’affichage des catégories de patch notes et ajout du système de mise à jour automatique.",
+  "published_at": "2026-07-25T00:00:00Z"
+}
