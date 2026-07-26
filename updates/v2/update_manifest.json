@@ -1,10 +1,10 @@
 {
-  "schema_version": 1,
-  "version": "1.0.5",
-  "mandatory": false,
-  "download_url": "https://github.com/nicolassantelia-cmd/red-dead-destinee-launcher/releases/download/v1.0.5/Red.Dead.Destinee.Launcher.Setup.exe",
-  "sha256": "32988fb5fe3eeeac9780036739e653d39e2699fa44f60f1c1b0d274aef17575f",
-  "size": 61456745,
-  "release_notes": "Version 1.0.5 : nouveau canal de mise à jour sécurisé, nouvelle interface de mise à jour et correction complète de la synchronisation Desti-Patch.",
-  "published_at": "2026-07-26T13:29:44Z"
+    "schema_version":  1,
+    "version":  "1.0.6",
+    "mandatory":  false,
+    "download_url":  "https://github.com/nicolassantelia-cmd/red-dead-destinee-launcher/releases/download/v1.0.6/Red.Dead.Destinee.Launcher.Setup.exe",
+    "sha256":  "73394913226ad44881cb4ac930ea75b4102638195b77325c8b2013a8cb38d7e0",
+    "size":  61454735,
+"release_notes": "Version 1.0.6 : historique Desti-Patch complet, cache fiable et résumés des nouveautés améliorés.",
+    "published_at":  "2026-07-26T14:21:49Z"
 }
