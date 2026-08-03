@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
   "version": "1.0.8",
-  "mandatory": false,
-  "download_url": "https://github.com/red-dead-destinee/red-dead-destinee-launcher/releases/download/v1.0.8-qa.1/Red.Dead.Destinee.Launcher.Setup.1.0.8.QA1.exe",
-  "size": 45012964,
-  "sha256": "288146210e4d084129274de3dc7ec6616915d93ee241a74bef6bdc9b0366dc41",
-  "release_notes": "Test de la mise à jour intégrée au launcher 1.0.8 QA1",
-  "published_at": "2026-08-03T15:48:42Z"
+  "mandatory": true,
+  "download_url": "https://github.com/red-dead-destinee/red-dead-destinee-launcher/releases/download/v1.0.8-qa.6/Red.Dead.Destinee.Launcher.Setup.1.0.8.QA6.exe",
+  "size": 45029506,
+  "sha256": "452169c592b1f82fd37a6ecd64c8fb36a43b01e1888a27bfd0fe6484c12ab5b2",
+  "release_notes": "Test QA6 du téléchargement intégré et de l’installation automatique",
+  "published_at": "2026-08-03T19:28:16Z"
 }
