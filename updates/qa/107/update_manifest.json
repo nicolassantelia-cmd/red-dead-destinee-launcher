@@ -2,9 +2,9 @@
   "schema_version": 1,
   "version": "1.0.7",
   "mandatory": false,
-  "download_url": "https://github.com/red-dead-destinee/red-dead-destinee-launcher/releases/download/v1.0.7-qa.4/Red.Dead.Destinee.Launcher.Setup.1.0.7.exe",
-  "sha256": "474a428e87a72fe07db6ac675e5a3d70b1d033e34a5a9a10cee750df7369142c",
-  "size": 45017093,
-  "release_notes": "Test final QA de mise \u00e0 jour automatique 1.0.6 vers 1.0.7 Build 14",
-  "published_at": "2026-08-03T12:51:19Z"
+  "download_url": "https://github.com/red-dead-destinee/red-dead-destinee-launcher/releases/download/v1.0.7-qa.5/Red.Dead.Destinee.Launcher.Setup.1.0.7.exe",
+  "sha256": "bc3266fa987a26cf290cf14e83a63d26a3b5906eb158421aeacc636f03b241d2",
+  "size": 45018815,
+  "release_notes": "Test QA final de mise \u00e0 jour automatique 1.0.6 vers 1.0.7 Build 15",
+  "published_at": "2026-08-03T13:13:18Z"
 }
