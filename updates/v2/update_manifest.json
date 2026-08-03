@@ -1,10 +1,10 @@
 {
     "schema_version":  1,
-    "version":  "1.0.6",
+    "version":  "1.0.7",
     "mandatory":  false,
-    "download_url":  "https://github.com/red-dead-destinee/red-dead-destinee-launcher/releases/download/v1.0.6/Red.Dead.Destinee.Launcher.Setup.1.0.6.exe",
-    "sha256":  "93dba91cbc25486b5b35522a223353fcd68bbca2cb63a512a69be2b5a0a12bb0",
-    "size":  43887141,
-"release_notes": "Version 1.0.6 : historique Desti-Patch complet, cache fiable et résumés des nouveautés améliorés.",
-    "published_at":  "2026-07-26T14:21:49Z"
+    "download_url":  "https://github.com/red-dead-destinee/red-dead-destinee-launcher/releases/download/v1.0.7/Red.Dead.Destinee.Launcher.Setup.1.0.7.exe",
+    "sha256":  "bc3266fa987a26cf290cf14e83a63d26a3b5906eb158421aeacc636f03b241d2",
+    "size":  45018815,
+    "release_notes": "Mise à jour automatique du launcher Red Dead Destinée 1.0.7",
+    "published_at":  "2026-08-03T13:30:23Z"
 }
