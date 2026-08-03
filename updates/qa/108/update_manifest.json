@@ -3,8 +3,8 @@
   "version": "1.0.8",
   "mandatory": true,
   "download_url": "https://github.com/red-dead-destinee/red-dead-destinee-launcher/releases/download/v1.0.8-qa.8/Red.Dead.Destinee.Launcher.Setup.1.0.8.QA8.exe",
-  "size": 45029596,
-  "sha256": "002eb321a423253bd81c2dbe39fb8f5bee2deb06984f3e2943e66922b3254bf6",
+  "size": 45030858,
+  "sha256": "a949925cd081ca7fdfcd4e0aeda869183824cd6d2bcb2d1267db02a03467f0e2",
   "release_notes": "Test QA8 du lancement élevé ShellExecuteExW avec reprise après annulation",
-  "published_at": "2026-08-03T21:10:00Z"
+  "published_at": "2026-08-03T21:16:00Z"
 }
